@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/209978320?v=4&size=460" width="120" height="120" title="VYLUX TECH avatar" />
+<img src="assets/avatar.jpg" width="120" height="120" title="Jayden Mwesigwa — VYLUX TECH" />
 
 # Jayden Mwesigwa
 
