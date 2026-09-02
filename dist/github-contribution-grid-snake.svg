@@ -3,7 +3,7 @@
   <g fill="#F0F6FC">
     <rect x="60" y="40" width="780" height="200" rx="8"/>
   </g>
-  <g font-family="monospace" font-size="18" fill="#008500">
+  <g font-family="monospace" font-size="18" fill="#00A8CC">
     <text x="80" y="160">VYLUX TECH — contribution grid loading...</text>
   </g>
   <text x="80" y="200" fill="#57606A" font-family="monospace" font-size="14">This snake regenerates hourly via GitHub Actions.</text>

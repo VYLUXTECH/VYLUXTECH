@@ -6,15 +6,15 @@
 
 ### Founder — **VYLUX TECH**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+APIs%2C+automation+%26+AI+tools;Node.js+%C2%B7+Python+%C2%B7+Go+%C2%B7+DevOps;Turning+ideas+into+working+software&font=Fira+Code&color=39FF14&size=20&width=580&height=45&duration=4000+&pause=1200&center=true)](https://vyluxtech.qzz.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+APIs%2C+automation+%26+AI+tools;Node.js+%C2%B7+Python+%C2%B7+Go+%C2%B7+DevOps;Turning+ideas+into+working+software&font=Fira+Code&color=00D5FF&size=20&width=580&height=45&duration=4000+&pause=1200&center=true)](https://vyluxtech.qzz.io)
 
-[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.followers&label=followers&color=39FF14&style=for-the-badge&logo=github)][gh]
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.public_repos&label=repos&color=39FF14&style=for-the-badge&logo=github)][gh]
-[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.following&label=following&color=39FF14&style=for-the-badge&logo=github)][gh]
-[![Profile Views](https://komarev.com/ghpvc/?username=VYLUXTECH&label=profile+views&color=39FF14&style=for-the-badge)](#)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.followers&label=followers&color=00D5FF&style=for-the-badge&logo=github)][gh]
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.public_repos&label=repos&color=00D5FF&style=for-the-badge&logo=github)][gh]
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVYLUXTECH&query=%24.following&label=following&color=00D5FF&style=for-the-badge&logo=github)][gh]
+[![Profile Views](https://komarev.com/ghpvc/?username=VYLUXTECH&label=profile+views&color=00D5FF&style=for-the-badge)](#)
 
-[![Website](https://img.shields.io/badge/website-vyluxtech.qzz.io-39FF14?style=for-the-badge&logo=googlechrome&labelColor=0D1117)](https://vyluxtech.qzz.io)
-[![GitHub](https://img.shields.io/badge/GitHub-VYLUXTECH-39FF14?style=for-the-badge&logo=github&labelColor=0D1117)][gh]
+[![Website](https://img.shields.io/badge/website-vyluxtech.qzz.io-00D5FF?style=for-the-badge&logo=googlechrome&labelColor=0D1117)](https://vyluxtech.qzz.io)
+[![GitHub](https://img.shields.io/badge/GitHub-VYLUXTECH-00D5FF?style=for-the-badge&logo=github&labelColor=0D1117)][gh]
 
 ```
 $ whoami
@@ -62,7 +62,7 @@ $ echo $STATS
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VYLUXTECH&theme=tokyonight_duo&hide_border=true" title="GitHub streak stats" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=VYLUXTECH&theme=github-dark-blue&hide_border=true" title="GitHub streak stats" alt="GitHub streak stats" />
 </p>
 
 ```
