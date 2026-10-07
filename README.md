@@ -8,7 +8,7 @@
 [![Followers](https://img.shields.io/github/followers/VYLUXTECH?color=00D5FF&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00D5FF)](https://github.com/VYLUXTECH)
 [![Profile Views](https://komarev.com/ghpvc/?username=VYLUXTECH&color=00D5FF&style=flat-square&label=Profile+Views&labelColor=000000)](https://github.com/VYLUXTECH)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Collabs-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.com)
-[![Focus](https://img.shields.io/badge/Focus-Full-Stack%20%7C%20APIs%20%7C%20Bots-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.com)
+[![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20APIs%20%7C%20Bots-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.com)
 
 </div>
 
@@ -88,13 +88,13 @@
 ║  VYLUX TECH // Full-Stack Developer & API Builder            ║
 ║  Founder & Operator · Jayden Mwesigwa · Kampala, Uganda      ║
 ║──────────────────────────────────────────────────────────────║
-║  ▸ REST API Design & Development   [Node.js / Express]       ║
-║  ▸ Full-Stack Web Development      [React / Vite / Tailwind] ║
-║  ▸ Scrapers & Automation           [Puppeteer / CDP]         ║
-║  ▸ WhatsApp Tooling                [Baileys / XMD]           ║
-║  ▸ Linux / Server Infrastructure   [Nginx / Docker / PM2]    ║
-║  ▸ Databases                       [MongoDB / MySQL / Redis] ║
-║  ▸ Open Source                     [shipped & live]          ║
+║  » REST API Design & Development   [Node.js / Express]       ║
+║  » Full-Stack Web Development      [React / Vite / Tailwind] ║
+║  » Scrapers & Automation           [Puppeteer / CDP]         ║
+║  » WhatsApp Tooling                [Baileys / XMD]           ║
+║  » Linux / Server Infrastructure   [Nginx / Docker / PM2]    ║
+║  » Databases                       [MongoDB / MySQL / Redis] ║
+║  » Open Source                     [shipped & live]          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
