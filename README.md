@@ -1,19 +1,20 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003344,100:00D5FF&height=200&section=header&text=VYLUX%20TECH&fontSize=52&fontColor=00D5FF&animation=fadeIn&fontAlignY=34&desc=Jayden%20Mwesigwa%20%7C%20Backend%20Engineer%20%7C%20Founder%20of%20VYLUX%20TECH&descAlignY=55&descSize=15&fontFamily=monospace)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003344,100:00D5FF&height=200&section=header&text=VYLUX%20TECH&fontSize=52&fontColor=00D5FF&animation=fadeIn&fontAlignY=34&desc=Founder%20%7C%20VYLUX%20TECH%20%7C%20Kampala%2C%20Uganda&descAlignY=55&descSize=15&fontFamily=monospace)
 
 <img src="assets/avatar.jpg" width="130" height="130" title="Jayden Mwesigwa — VYLUX TECH" />
 
 # Jayden Mwesigwa
 
-### Founder — **VYLUX TECH**
+### Founder — **VYLUX TECH** · Kampala, Uganda 🇺🇬
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+APIs%2C+automation+%26+AI+tools;Node.js+%C2%B7+Python+%C2%B7+Go+%C2%B7+DevOps;Turning+ideas+into+working+software&font=Fira+Code&color=00D5FF&size=20&width=580&height=45&duration=4000&pause=1200&center=true)](https://vyluxtech.qzz.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+APIs%2C+bots+%26+AI+products+from+Kampala%2C+Uganda;Node.js+%C2%B7+Python+%C2%B7+Go+%C2%B7+DevOps;Engineering+Digital+Realities&font=Fira+Code&color=00D5FF&size=20&width=580&height=45&duration=4000&pause=1200&center=true)](https://vyluxtech.com)
 
+[![Location](https://img.shields.io/badge/Location-Kampala%2C%20Uganda-00D5FF?style=flat-square&label=Location&labelColor=000000&logo=googlemaps&logoColor=00D5FF)](https://maps.google.com/?q=Kampala,Uganda)
 [![Followers](https://img.shields.io/github/followers/VYLUXTECH?color=00D5FF&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00D5FF)](https://github.com/VYLUXTECH)
 [![Profile Views](https://komarev.com/ghpvc/?username=VYLUXTECH&color=00D5FF&style=flat-square&label=Profile+Views&labelColor=000000)](https://github.com/VYLUXTECH)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Collabs-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.qzz.io)
-[![Focus](https://img.shields.io/badge/Focus-APIs%20%7C%20Bots%20%7C%20Automation-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.qzz.io)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collabs-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.com)
+[![Focus](https://img.shields.io/badge/Focus-APIs%20%7C%20Bots%20%7C%20Automation-00D5FF?style=flat-square&labelColor=000000)](https://vyluxtech.com)
 
 </div>
 
@@ -21,9 +22,9 @@
 
 ## 👤 Who I Am
 
-I'm **Jayden Mwesigwa** — founder of **VYLUX TECH** and a backend engineer who turns curiosity into software. I build **REST APIs**, **automation systems**, and **developer tooling** — shipped, live, and used by real people.
+I'm **Jayden Mwesigwa** — founder of **VYLUX TECH**, a technology company based in **Kampala, Uganda**, and a backend engineer who turns curiosity into software. I build **REST APIs**, **automation systems**, and **developer tooling** — shipped, live, and used by real people.
 
-> *"Building the future one API at a time."* — VYLUX TECH
+> *"Engineering Digital Realities."* — VYLUX TECH
 
 **What I ship:**
 
@@ -34,16 +35,33 @@ I'm **Jayden Mwesigwa** — founder of **VYLUX TECH** and a backend engineer who
 
 ---
 
-## 📦 The VYLUX TECH Ecosystem
+## 📍 Company Facts
 
-> **VYLUX TECH** is an indie software studio building APIs, bots, and developer infrastructure — fast, small, and focused.
+| | |
+|---|---|
+| 🏢 **Company** | VYLUX TECH |
+| 📍 **Location** | **Kampala, Uganda** 🇺🇬 · Eastern Africa Time (EAT, UTC+3) |
+| 🎯 **Motto** | Engineering Digital Realities |
+| 🌐 **Website** | [vyluxtech.com](https://vyluxtech.com) |
+| ✉️ **Email** | vyluxtech@gmail.com |
+| 🤝 **Meetings** | By appointment in Kampala · clients worldwide, delivered remotely |
 
-```
-VYLUX TECH
-└── VYLUX-APIS     — multipurpose REST API backend
-└── VYLUX-XMD      — WhatsApp bot / automation framework
-└── vyluxtech.qzz.io — official website & docs
-```
+---
+
+## 📦 Products — the VYLUX TECH ecosystem
+
+> Six live products we own and operate — what we sell, we also use every day.
+
+| Product | What it does | Live |
+|---|---|---|
+| 🎬 **VYFLIX** | Streaming — movies, series, TV channels & music, incl. VJ-translated titles | [vyflix.kdns.fr](https://vyflix.kdns.fr) |
+| 💹 **MONEY HARVESTER** | Automated MT5 scalping bot — add your credentials, it trades 24/7 | [moneyharvester.kdns.fr](https://moneyharvester.kdns.fr) |
+| 💬 **VYLUX-XMD** | Multi-session WhatsApp bot — AI chat (14+ models), media tools, downloaders | [bot.vyluxtech.com](https://bot.vyluxtech.com) |
+| 🎓 **VX TECH ACADEMY** | Online academy — 207 courses, AI tutor, live classes, certificates | [academy.vyluxtech.com](https://academy.vyluxtech.com) |
+| ⚡ **VYLUX APIS** | Free open API hub — 280+ endpoints across 25 categories, no API key | [apis.vyluxtech.com](https://apis.vyluxtech.com) |
+| 🏫 **VYLEDU** | AI-native school management platform — students, exams, fees, AI assistant | [vyledu.kdns.fr](https://vyledu.kdns.fr) |
+
+**Services (8 verticals):** Video Production · Web & Mobile · AI / Machine Learning · Automation & Bots · Cybersecurity · Financial Tech · SaaS · Coding Academy
 
 ---
 
@@ -52,8 +70,8 @@ VYLUX TECH
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  VYLUX TECH // Backend Engineer & API Builder                ║
-║  Founder & Operator · Jayden Mwesigwa                        ║
-║────────────────────────────────────────────────────────────--║
+║  Founder & Operator · Jayden Mwesigwa · Kampala, Uganda      ║
+║──────────────────────────────────────────────────────────────║
 ║  ▸ REST API Design & Development     [Node.js / Express]     ║
 ║  ▸ Scrapers & Automation             [Puppeteer / CDP]       ║
 ║  ▸ WhatsApp Tooling                  [Baileys / XMD]         ║
@@ -107,7 +125,7 @@ I work at the intersection of **API infrastructure**, **automation**, and **deve
 
 > *This section helps developers and recruiters find this profile.*
 
-backend engineer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer
+Kampala Uganda software engineer · backend engineer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · VYLEDU school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · VYLUX APIS free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
@@ -116,6 +134,7 @@ backend engineer Uganda · Node.js developer · REST API builder · WhatsApp bot
 - 🧩 **APIs & scrapers** — REST backends, data pipelines, automation
 - 🤖 **Bots** — WhatsApp tooling and bot frameworks
 - 🛠️ **Open source** — collaboration on the VYLUX TECH ecosystem
+- 🏢 **Full projects through VYLUX TECH** — web & mobile apps, AI integrations, cybersecurity audits, video production (from Kampala, delivered worldwide)
 
 If you're building something real and want an engineer who ships — let's talk.
 
@@ -123,13 +142,14 @@ If you're building something real and want an engineer who ships — let's talk.
 
 ## 🔗 Connect
 
-[![Website](https://img.shields.io/badge/vyluxtech.qzz.io-00D5FF?style=flat-square&logo=googlechrome&logoColor=000000&label=Website&labelColor=000000)](https://vyluxtech.qzz.io)
+[![Website](https://img.shields.io/badge/vyluxtech.com-00D5FF?style=flat-square&logo=googlechrome&logoColor=000000&label=Website&labelColor=000000)](https://vyluxtech.com)
+[![Email](https://img.shields.io/badge/vyluxtech%40gmail.com-00D5FF?style=flat-square&logo=gmail&logoColor=000000&label=Email&labelColor=000000)](mailto:vyluxtech@gmail.com)
 [![GitHub](https://img.shields.io/badge/VYLUXTECH-00D5FF?style=flat-square&logo=github&logoColor=000000&label=GitHub&labelColor=000000)](https://github.com/VYLUXTECH)
 
 ⭐ If any of my work has helped you, consider starring a repo — it keeps the builds shipping.
 
-**Powered by VYLUX TECH** · Jayden Mwesigwa
+**Powered by VYLUX TECH** · Jayden Mwesigwa · **Kampala, Uganda**
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:00D5FF,50:003344,100:000000&height=120&section=footer&fontFamily=monospace)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:00D5FF,50:003344,100:000000&height=120&section=footer&fontFamily=monospace&desc=Kampala%2C%20Uganda&descAlignY=50&descSize=14)
 
 </div>
