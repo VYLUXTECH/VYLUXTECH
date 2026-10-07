@@ -8,7 +8,7 @@
 
 ### Founder — **VYLUX TECH** · Kampala, Uganda 🇺🇬
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+APIs%2C+bots+%26+AI+products+from+Kampala%2C+Uganda;Node.js+%C2%B7+Python+%C2%B7+Go+%C2%B7+DevOps;Engineering+Digital+Realities&font=Fira+Code&color=00D5FF&size=20&width=580&height=45&duration=4000&pause=1200&center=true)](https://vyluxtech.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+developer+from+Kampala%2C+Uganda;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Go;Engineering+Digital+Realities&font=Fira+Code&color=00D5FF&size=20&width=580&height=45&duration=4000&pause=1200&center=true)](https://vyluxtech.com)
 
 [![Location](https://img.shields.io/badge/Location-Kampala%2C%20Uganda-00D5FF?style=flat-square&label=Location&labelColor=000000&logo=googlemaps&logoColor=00D5FF)](https://maps.google.com/?q=Kampala,Uganda)
 [![Followers](https://img.shields.io/github/followers/VYLUXTECH?color=00D5FF&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00D5FF)](https://github.com/VYLUXTECH)
@@ -22,12 +22,13 @@
 
 ## 👤 Who I Am
 
-I'm **Jayden Mwesigwa** — founder of **VYLUX TECH**, a technology company based in **Kampala, Uganda**, and a backend engineer who turns curiosity into software. I build **REST APIs**, **automation systems**, and **developer tooling** — shipped, live, and used by real people.
+I'm **Jayden Mwesigwa** — founder of **VYLUX TECH**, a technology company based in **Kampala, Uganda**, and a **full-stack developer** who turns curiosity into software. I build **full-stack web apps**, **REST APIs**, **automation systems**, and **developer tooling** — shipped, live, and used by real people.
 
 > *"Engineering Digital Realities."* — VYLUX TECH
 
 **What I ship:**
 
+- 🖥️ **Full-stack web apps** — React front-ends wired to Node.js/Express APIs: dashboards, portals, and the site you're on
 - 🛠️ Production-grade REST APIs and scraper backends under the [VYLUX-APIS](https://github.com/VYLUXTECH/VYLUX-APIS) umbrella
 - 🤖 WhatsApp automation and AI-assisted tools for developer communities
 - 📡 Infrastructure work: VPS management, Nginx, Docker, load-balancing under pressure
@@ -69,19 +70,20 @@ I'm **Jayden Mwesigwa** — founder of **VYLUX TECH**, a technology company base
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  VYLUX TECH // Backend Engineer & API Builder                ║
+║  VYLUX TECH // Full-Stack Developer & API Builder            ║
 ║  Founder & Operator · Jayden Mwesigwa · Kampala, Uganda      ║
 ║──────────────────────────────────────────────────────────────║
-║  ▸ REST API Design & Development     [Node.js / Express]     ║
-║  ▸ Scrapers & Automation             [Puppeteer / CDP]       ║
-║  ▸ WhatsApp Tooling                  [Baileys / XMD]         ║
-║  ▸ Linux / Server Infrastructure     [Nginx / Docker / PM2]  ║
-║  ▸ Databases                         [MongoDB / MySQL / Redis]║
-║  ▸ Open Source                       [shipped & live]        ║
+║  ▸ REST API Design & Development[Node.js / Express]          ║
+║  ▸ Full-Stack Web Development   [React / Vite / Tailwind]    ║
+║  ▸ Scrapers & Automation        [Puppeteer / CDP]            ║
+║  ▸ WhatsApp Tooling             [Baileys / XMD]              ║
+║  ▸ Linux / Server Infrastructure[Nginx / Docker / PM2]       ║
+║  ▸ Databases                    [MongoDB / MySQL / Redis]    ║
+║  ▸ Open Source                  [shipped & live]             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-I work at the intersection of **API infrastructure**, **automation**, and **developer tooling** — engineering systems that stay up and do exactly what they're told.
+I work across the whole stack — **React** on the front, **Node.js / Python / Go** on the back — at the intersection of **API infrastructure**, **automation**, and **developer tooling**, engineering systems that stay up and do exactly what they're told.
 
 ---
 
@@ -93,6 +95,9 @@ I work at the intersection of **API infrastructure**, **automation**, and **deve
 [![](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00D5FF)](https://www.python.org)
 [![](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00D5FF)](https://go.dev)
 [![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00D5FF)](https://expressjs.com)
+[![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00D5FF)](https://react.dev)
+[![](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00D5FF)](https://vite.dev)
+[![](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00D5FF)](https://tailwindcss.com)
 
 [![](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00D5FF)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00D5FF)](https://www.mysql.com)
@@ -125,12 +130,13 @@ I work at the intersection of **API infrastructure**, **automation**, and **deve
 
 > *This section helps developers and recruiters find this profile.*
 
-Kampala Uganda software engineer · backend engineer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · VYLEDU school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · VYLUX APIS free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
+Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · VYLEDU school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · VYLUX APIS free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
 ## 🤝 Work With Me
 
+- 🌐 **Full-stack builds** — React + Node.js/Express apps, dashboards, portals
 - 🧩 **APIs & scrapers** — REST backends, data pipelines, automation
 - 🤖 **Bots** — WhatsApp tooling and bot frameworks
 - 🛠️ **Open source** — collaboration on the VYLUX TECH ecosystem
