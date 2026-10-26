@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td align="center" width="50%"><a href="https://apis.vyluxtech.com"><img src="./assets/products/vylux-apis.svg" width="100%" alt="VYLUX APIS — 280+ free endpoints across 25 categories"></a></td>
-<td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/vyledu.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
+<td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/school-portal.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
 </tr>
 </table>
 
