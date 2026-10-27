@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td align="center" width="50%"><a href="https://apis.vyluxtech.com"><img src="./assets/products/vylux-apis.svg" width="100%" alt="VYLUX APIS — 280+ free endpoints across 25 categories"></a></td>
-<td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/vyledu.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
+<td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/school-portal.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
 </tr>
 </table>
 
@@ -128,7 +128,7 @@ Edge: <b>Cloudflare · Vercel</b>
 
 > *This section helps developers and recruiters find this profile.*
 
-Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · VYLEDU school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · VYLUX APIS free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
+Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · VYLUX-APIS · VYLUX-XMD · SCHOOL PORTAL school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · VYLUX APIS free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
