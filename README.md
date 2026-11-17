@@ -68,8 +68,8 @@
 
 <table>
 <tr>
-<td width="50%"><img src="https://badges.vyluxtech.com/stats.svg" width="100%" alt="VYLUX TECH GitHub stats"></td>
-<td width="50%"><img src="https://badges.vyluxtech.com/streak.svg" width="100%" alt="GitHub contribution streak"></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=VYLUXTECH&title_color=00D5FF&bg_color=0d1117&icon_color=00D5FF&text_color=c9d1d9&border_color=1f2937&hide_border=true&hide_rank=true&show_icons=true" width="100%" alt="VYLUX TECH GitHub stats"></td>
+<td width="50%"><img src="https://streak-stats.demolab.com?user=VYLUXTECH&background=0D1117&ring=00D5FF&fire=00D5FF&currStreakLabel=00D5FF&currStreakNum=ffffff&sideLabels=9ca3af&sideNums=c9d1d9&dates=6b7280&hide_border=true" width="100%" alt="GitHub contribution streak"></td>
 </tr>
 </table>
 
@@ -104,11 +104,11 @@ I work across the whole stack — **React** on the front, **Node.js / Python / G
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,py,go,react,express,vite,tailwind,docker,linux,nginx,mongodb,mysql,redis,git,cloudflare&theme=dark" width="100%" alt="Node.js · TypeScript · JavaScript · Python · Go · React · Express · Vite · Tailwind · Docker · Linux · Nginx · MongoDB · MySQL · Redis · Git · Cloudflare">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,py,go,react,express,vite,tailwind,docker,linux,nginx,mongodb,mysql,redis,git,vercel,cloudflare&theme=dark" width="100%" alt="Node.js · TypeScript · JavaScript · Python · Go · React · Express · Vite · Tailwind · Docker · Linux · Nginx · MongoDB · MySQL · Redis · Git · Vercel · Cloudflare">
 
 <table>
 <tr>
-<td width="38%"><img src="https://badges.vyluxtech.com/langs.svg" width="100%" alt="Top languages"></td>
+<td width="38%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VYLUXTECH&layout=compact&title_color=00D5FF&bg_color=0d1117&text_color=c9d1d9&border_color=1f2937&hide_border=true" width="100%" alt="Top languages"></td>
 <td width="62%">
 
 <b>Stack at a glance</b><br><br>
@@ -116,7 +116,7 @@ I work across the whole stack — **React** on the front, **Node.js / Python / G
 Primary: <b>React · TypeScript · Node.js · Python · Go</b><br>
 Serving: <b>Nginx · Docker · PM2</b> on Linux<br>
 Data: <b>MongoDB · MySQL · Redis</b><br>
-Edge: <b>Cloudflare Pages · Workers</b>
+Edge: <b>Cloudflare · Vercel</b>
 
 </td>
 </tr>
@@ -156,6 +156,6 @@ If you're building something real and want an engineer who ships — let's talk.
 
 **Powered by VYLUX TECH** · Jayden Mwesigwa · **Kampala, Uganda**
 
-![](https://badges.vyluxtech.com/wave.svg)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:00D5FF,50:003344,100:000000&height=120&section=footer&fontFamily=monospace&desc=Kampala%2C%20Uganda&descAlignY=50&descSize=14)
 
 </div>
