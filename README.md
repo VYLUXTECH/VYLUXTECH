@@ -43,24 +43,23 @@
 
 ## 📦 Products — what we build and run
 
-> Six live products we own and operate — what we sell, we also use every day.
+> Five live products we own and operate — what we sell, we also use every day.
 
 <table>
 <tr>
-<td align="center" width="50%"><a href="https://vyflix.kdns.fr"><img src="./assets/products/vyflix.svg" width="100%" alt="VYFLIX — movies, series, TV channels & music"></a></td>
-<td align="center" width="50%"><a href="https://moneyharvester.kdns.fr"><img src="./assets/products/money-harvester.svg" width="100%" alt="MONEY HARVESTER — automated MT5 scalping bot"></a></td>
-</tr>
-<tr>
+<td align="center" width="50%"><a href="https://avax.vxlabs.us.ci"><img src="./assets/products/queen-avax.svg" width="100%" alt="QUEEN AVAX — multi-session WhatsApp bot with AI chat, media tools & downloaders"></a></td>
 <td align="center" width="50%"><a href="https://bot.vyluxtech.com"><img src="./assets/products/vylux-xmd.svg" width="100%" alt="VYLUX-XMD — multi-session WhatsApp bot"></a></td>
-<td align="center" width="50%"><a href="https://academy.vyluxtech.com"><img src="./assets/products/vx-academy.svg" width="100%" alt="VX TECH ACADEMY — 207 courses, AI tutor, certificates"></a></td>
 </tr>
 <tr>
-<td align="center" width="50%"><a href="https://apilux.vyluxtech.com"><img src="./assets/products/apilux.svg" width="100%" alt="APILUX — 372 endpoints across 25 categories"></a></td>
 <td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/school-portal.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
+<td align="center" width="50%"><a href="https://sports.vxlabs.us.ci"><img src="./assets/products/sports-arena.svg" width="100%" alt="SPORTS ARENA — live scores, league tables & 400+ live channels"></a></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://moneyharvester.kdns.fr"><img src="./assets/products/money-harvester.svg" width="100%" alt="MONEY HARVESTER — automated MT5 scalping bot"></a></td>
 </tr>
 </table>
 
-**Services (8 verticals):** Video Production · Web & Mobile · AI / Machine Learning · Automation & Bots · Cybersecurity · Financial Tech · SaaS · Coding Academy
+**Services (7 verticals):** Video Production · Web & Mobile · AI / Machine Learning · Automation & Bots · Cybersecurity · Financial Tech · SaaS
 
 ---
 
@@ -128,7 +127,7 @@ Edge: <b>Cloudflare · Vercel</b>
 
 > *This section helps developers and recruiters find this profile.*
 
-Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · APILUX · VYLUX-XMD · SCHOOL PORTAL school management system · VYFLIX streaming · MONEY HARVESTER MT5 bot · APILUX free API hub · VX TECH Academy · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
+Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · QUEEN AVAX WhatsApp bot · VYLUX-XMD · SCHOOL PORTAL school management system · SPORTS ARENA live scores · MONEY HARVESTER MT5 bot · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
