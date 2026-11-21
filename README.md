@@ -43,7 +43,7 @@
 
 ## 📦 Products — what we build and run
 
-> Five live products we own and operate — what we sell, we also use every day.
+> Four flagship products — the full catalogue lives at [vxlabs.us.ci](https://vxlabs.us.ci).
 
 <table>
 <tr>
@@ -54,10 +54,9 @@
 <td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/school-portal.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
 <td align="center" width="50%"><a href="https://sports.vxlabs.us.ci"><img src="./assets/products/sports-arena.svg" width="100%" alt="SPORTS ARENA — live scores, league tables & 400+ live channels"></a></td>
 </tr>
-<tr>
-<td align="center" width="50%"><a href="https://moneyharvester.kdns.fr"><img src="./assets/products/money-harvester.svg" width="100%" alt="MONEY HARVESTER — automated MT5 scalping bot"></a></td>
-</tr>
 </table>
+
+**More of what we build and run** — [vxlabs.us.ci](https://vxlabs.us.ci)
 
 **Services (7 verticals):** Video Production · Web & Mobile · AI / Machine Learning · Automation & Bots · Cybersecurity · Financial Tech · SaaS
 
@@ -127,7 +126,7 @@ Edge: <b>Cloudflare · Vercel</b>
 
 > *This section helps developers and recruiters find this profile.*
 
-Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · QUEEN AVAX WhatsApp bot · MUNO VJ movies · SCHOOL PORTAL school management system · SPORTS ARENA live scores · MONEY HARVESTER MT5 bot · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
+Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · QUEEN AVAX WhatsApp bot · MUNO VJ movies · SCHOOL PORTAL school management system · SPORTS ARENA live scores · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
