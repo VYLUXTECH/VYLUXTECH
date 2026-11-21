@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td align="center" width="50%"><a href="https://avax.vxlabs.us.ci"><img src="./assets/products/queen-avax.svg" width="100%" alt="QUEEN AVAX — multi-session WhatsApp bot with AI chat, media tools & downloaders"></a></td>
-<td align="center" width="50%"><a href="https://bot.vyluxtech.com"><img src="./assets/products/vylux-xmd.svg" width="100%" alt="VYLUX-XMD — multi-session WhatsApp bot"></a></td>
+<td align="center" width="50%"><a href="https://muno.vxlabs.us.ci"><img src="./assets/products/muno.svg" width="100%" alt="MUNO — VJ-translated movies with direct MP4 streaming & downloads"></a></td>
 </tr>
 <tr>
 <td align="center" width="50%"><a href="https://schoolportal.indevs.in"><img src="./assets/products/school-portal.svg" width="100%" alt="SCHOOL PORTAL — AI-native school management platform"></a></td>
@@ -127,7 +127,7 @@ Edge: <b>Cloudflare · Vercel</b>
 
 > *This section helps developers and recruiters find this profile.*
 
-Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · QUEEN AVAX WhatsApp bot · VYLUX-XMD · SCHOOL PORTAL school management system · SPORTS ARENA live scores · MONEY HARVESTER MT5 bot · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
+Kampala Uganda software engineer · full stack developer Uganda · backend engineer Uganda · React Node.js developer · JavaScript developer Uganda · Node.js developer · REST API builder · WhatsApp bot framework · VYLUX TECH · QUEEN AVAX WhatsApp bot · MUNO VJ movies · SCHOOL PORTAL school management system · SPORTS ARENA live scores · MONEY HARVESTER MT5 bot · open source · automation · cloudflare pages · Nginx · Docker · MongoDB developer · Express.js API · scraper engineer · Jayden Mwesigwa · Uganda software engineer · African tech company
 
 ---
 
